@@ -1,3 +1,3 @@
 # ConsoleSnakePy
 Python Snake in console README
-This is a python console project
+This is a python console project : Snake
