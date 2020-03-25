@@ -1,2 +1,2 @@
 # ConsoleSnakePy
-Python Snake in console
+Python Snake in console readme
